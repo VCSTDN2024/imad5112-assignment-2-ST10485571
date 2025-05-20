@@ -83,14 +83,41 @@ Screenshots
 
 App Screenshots:
 [Screenshot 1](path_to_screenshot_1.png)
-Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+![image](https://github.com/user-attachments/assets/c78628d2-8a70-45e5-aff2-f4cc90b4e2e9)
+
 
 [Screenshot 2](path_to_screenshot_2.png)
-Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."]*
+![image](https://github.com/user-attachments/assets/fdef99af-f749-4bce-9df8-021647881c9c)
+
+
+[Screenshot 3](path_to_screenshot_2.png)
+![image](https://github.com/user-attachments/assets/8b7cf87a-1ffe-4b07-89d8-bfc28c3d927a)
+ 
+
+[Screenshot 4](path_to_screenshot_2.png)
+![image](https://github.com/user-attachments/assets/c392ab83-f57f-4178-9993-907c15473c41)
+
+
+[Screenshot 5](path_to_screenshot_2.png)
+![image](https://github.com/user-attachments/assets/c2909516-26cb-4504-9b42-4f1841080714)
+
+
+[Screenshot 6](path_to_screenshot_2.png)
+![image](https://github.com/user-attachments/assets/8ae19125-193b-49fd-ab1a-55ede21e7d3a)
+
+
+[Screenshot 7](path_to_screenshot_2.png)
+![image](https://github.com/user-attachments/assets/503c1b7d-6037-487f-b30a-5e5bad1be2ff)
+
+
+
+[Screenshot 8](path_to_screenshot_2.png)
+![image](https://github.com/user-attachments/assets/8fde87fc-c844-4788-a917-f9ec525f50ba)
+
 
 Video Demo:
 
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+A video showcasing the app's functionality can be viewed here: 
 
 
 
@@ -142,7 +169,19 @@ References
 List of Figures
 
 - Figure 1: Screenshot of the app's home screen.
+- ![image](https://github.com/user-attachments/assets/08b2486b-f060-413a-b032-9cbb88fd70dc)
+
 - Figure 2: Screenshot of the user profile screen.
+- ![image](https://github.com/user-attachments/assets/cb197d9b-fd3c-4c69-80e0-41c82aa9afcd)
+
+- Figure 3: Screenshot of the user profile screen.
+- ![image](https://github.com/user-attachments/assets/63cf17a6-3a5d-4932-a8d7-e573bf9ee2d8)
+
+- Figure 4: Screenshot of the user profile screen.
+- ![image](https://github.com/user-attachments/assets/2e95badd-1173-4999-81c5-241e554045ab)
+
+- Figure 5: Screenshot of the user profile screen.
+- ![image](https://github.com/user-attachments/assets/5069fc8d-4044-41e4-bff0-e30c2c0966e8)
 
 
 
