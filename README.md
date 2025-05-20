@@ -12,7 +12,7 @@ BMWQUIZ
 
 Links
 - GitHub Repository: https://github.com/VCSTDN2024/imad5112-assignment-2-ST10485571/blob/main/README.md
-- YouTube Video: 
+- YouTube Video: https://youtu.be/AqoRAa26GWU?si=A_vOFYrR4oBZXa6h
 
 
 2. Project Overview
@@ -117,7 +117,7 @@ App Screenshots:
 
 Video Demo:
 
-A video showcasing the app's functionality can be viewed here: 
+A video showcasing the app's functionality can be viewed here: https://youtu.be/AqoRAa26GWU?si=A_vOFYrR4oBZXa6h
 
 
 
