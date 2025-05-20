@@ -11,7 +11,7 @@ BMWQUIZ
 - Subject: IMAD5112
 
 Links
-- GitHub Repository: 
+- GitHub Repository: https://github.com/VCSTDN2024/imad5112-assignment-2-ST10485571/blob/main/README.md
 - YouTube Video: 
 
 
